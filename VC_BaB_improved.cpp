@@ -851,7 +851,7 @@ void writeSolutionToFile(const string &filename, const vector<int> &cover)
 
 int main()
 {
-    string userInput = "graph2";
+    string userInput = ""; //path to graph
 
     Graph g = getGraphFromFile(userInput + ".in");
 

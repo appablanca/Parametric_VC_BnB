@@ -14,13 +14,13 @@ A C++ implementation of a parameterized Minimum Vertex Cover solver using branch
 ## Build
 
 ```bash
-g++ -O2 -std=c++17 vertex_cover.cpp -o vertex_cover
+g++ -O2 -std=c++17 VC_BaB_improved -o vc
 ```
 
 ## Run
 
 ```bash
-./vertex_cover
+./vc
 ```
 
 ## Input Format
